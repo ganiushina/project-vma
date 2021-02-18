@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/module.authentification.service/module.authentification.service.iml" filepath="$PROJECT_DIR$/module.authentification.service/module.authentification.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module.webapi/module.webapi.iml" filepath="$PROJECT_DIR$/module.webapi/module.webapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-vma.iml" filepath="$PROJECT_DIR$/project-vma.iml" />
+    </modules>
+  </component>
+</project>

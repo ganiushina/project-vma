@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="grpc-spring-boot-starter-0.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/grpc-spring-boot-starter-0.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/grpc-spring-boot-starter-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

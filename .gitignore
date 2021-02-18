@@ -1,0 +1,3 @@
+# Project exclude paths
+/module.authentification.service/target/
+/module.webapi/target/

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="recruting@DEVELOPSERV" uuid="2c45b8b0-3a00-4cbc-8ab7-98ed3d01d097">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://DEVELOPSERV\MSSQLASTRA;database=recruting</jdbc-url>
+    </data-source>
+  </component>
+</project>
